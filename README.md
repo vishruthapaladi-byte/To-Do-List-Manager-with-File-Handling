@@ -18,6 +18,8 @@ A simple Python mini project that helps users manage daily tasks using file hand
 
 1. Install Python
 2. Run the file:
+## Conclusion
+This project helps in understanding Python file handling, functions, exception handling, and list operations through a real-life application. It improves problem-solving and programming skills.
 
 ```bash
 python todo.py
